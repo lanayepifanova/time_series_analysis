@@ -1,4 +1,4 @@
-# Simple Time Series Analysis
+# Time Series Analysis
 
 This project demonstrates basic time series analysis using Python, including:
 
